@@ -43,7 +43,7 @@ npm run dev                 # http://localhost:5173
 
 | Role      | Email                 | Password   |
 |-----------|------------------------|-----------|
-| Organizer | organizer@eventify.dev | password123 |
+| Organizer | jim@admin.com | 123456 |
 | Attendee  | attendee@eventify.dev  | password123 |
 
 ## Core features
